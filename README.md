@@ -26,19 +26,19 @@ Input Paramaters (REQUIRED):
 ----------------------------
 	-i/--input		FASTA			Specify a fasta file. FASTA file requires headers starting with accession number. (i.e. >NZ_CP006019 [fullname])
 
-	-o/--output		Output file	    Specify a output file name that should contain fetched sequences.
+	-o/--output		Output file	        Specify a output file name that should contain fetched sequences.
 
 	-d/--data		Dataframe		Specify a list of accession (Accession only). Each accession should be included in a new line (i.e. generated with Excel spreadsheet). Script works with or without '>' symbol before the accession.
 
 Parameters [optional]:
 ----------------------
-	-f/--flank		200			    This is the default length of flanks that is fetched.
+	-f/--flank		200         This is the default length of flanks that is fetched.
 
-	-c/--circular	N			    This is the default option that is assuming the sequence is not circular. Type "Y" insted if you know it is cirgular genome.
+	-c/--circular           N           This is the default option that is assuming the sequence is not circular. Type "Y" insted if you know it is cirgular genome.
 
-	-r/--repeat	    Y			    Include first repeat of not? (Default: Y).
+	-r/--repeat	        Y           Include first repeat of not? (Default: Y).
 
-	-s/--subtype	I-F			    Specify CRISPR subtype assigned by CRISPRDetect.
+	-s/--subtype	        I-F         Specify CRISPR subtype assigned by CRISPRDetect.
 
 Basic Options:
 --------------
