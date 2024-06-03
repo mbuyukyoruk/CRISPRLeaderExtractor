@@ -1,0 +1,38 @@
+Array 1 1303233-1303340 		**** Predicted by CRISPRDetect 3.0 *** 
+>NC_010085.1 Nitrosopumilus maritimus SCM1 complete sequence		Array_Orientation: Forward
+
+  Position	Repeat	   %id	Spacer	Repeat_Sequence                          	Spacer_Sequence          	Insertion/Deletion
+==========	======	======	======	=========================================	=========================	==================
+   1303233	    41	 100.0	    25	.........................................	CGGGGGCTTCAGTTTCAGGAGTTTC	
+   1303299	    41	 100.0	     0	.........................................	|                        	
+==========	======	======	======	=========================================	=========================	==================
+         2	    41	 100.0	    26	TTCTGCAGCAGGTGCTTCTGTGTTTTCAGTTGCTTCTACTG	                         	       
+
+# Left flank :   GAGATGAGAACTATTTAGTACAAATTTGCTTGATATTGCCTGAAGTTGGATTTTAGGGAATTTTTCTCTCAAGTCATCGAGGAATTTTACATCAATATTCTTTTGGCCTTTGATTTGTACAACTTGAATCTGTTTTGAGAGTATCTTGTAGAGCAGTTTTTTTGAAGCACCTCCATGAATTACAGGAATGATACTAACTACATCATCATTTTTTATCATAGTTGATTTTCCTTCTAGTGCAGAAGAATCAACACCATTTACTGCAATCAAGATATTTTCAGTATCCAACTCTGGAGAATCGTTTGGTTTTGTTTCCAATAACAAGTCAATTAGTTCTTGAATAGTAATGTTTGATTTTTCAAATTCTAACTTTTCAGTTGAAAAAGACTTTTTGGCACCGCCAACAAGTTTTACAGTAATCATTATGATGTGTTGTTAAAAGTTTGAAATTAATACTTAGTGTATTATTCAGATTTTTCTTCTGGGGTTTCAGGAGTTGT
+# Right flank :  GTTCAGGTTCTACTTGAGCTTCTTGCTCTAGGGATTTGGAAGCTTCAGCTTGTGCTTTTTTTGCCTTTTCTTCTCGAATCTCTTTTTTGATATAGTTTGTAATGTAACCTGCAATCTCATTTTTGAGTCCCTTTGAGCGGACTATGGATACTTCATTTAGAATTTTTTTGTTATCAGCAAAATCTTCACCGAACTTTGACTTGTGAGTCTCTAAAACTTCGTATGAAAGTCGCTTTATTCTATCCACGAATCGTCTAACGAAGGGGGTATTTTATACCTATATTCCAAGATATGCGTTGGAATTTTTTTCTAGCAGTGATACAGTCTCATCAAATGATTTGCCTAGAACTTTTGAGGCACAAAAGATTACACTTGGAATAAAGCCAATATCGGCTGATTTCATCTCAAAGCATCTAGAGAATCTAACAGGACCATCAGTTTCAACTAGAATTTTTGATTCATCACATTTTGACAACAATACCTGTTTGTCATTAGCATAG
+
+# Questionable array : NO	 Score: 2.34
+# 	Score Detail : 1:0, 2:0, 3:0, 4:1.00, 5:0.5, 6:0.25, 7:-0.3, 8:0.2, 9:0.69,
+# 	Score Legend : 1: cas, 2: matched_database_repeat, 3: motif_match, 4: overall_repeat_identity, 5: one_repeat_cluster, 6: exp_repeat_length, 7: exp_spacer_length, 8: spacer_identity, 9: log(total repeats) - log(total mutated repeats),
+# Primary repeat :     TTCTGCAGCAGGTGCTTCTGTGTTTTCAGTTGCTTCTACTG
+# Alternate repeat :   NA
+
+# Directional analysis summary from each method:
+# 	Motif ATTGAAA(N) match prediction:         NA Score: 0/4.5
+# 	A,T distribution in repeat prediction:     NA [Repeat is AT rich:53.66%AT]
+# 	Reference repeat match prediction:         NA 
+# 	Secondary Structural analysis prediction:  F [-5.80,-3.50] Score: 0.37/0.37
+# 	Array degeneracy analysis prediction:      NA [0-0] Score: 0/0.41
+# 	AT richness analysis in flanks prediction: F [70.0-56.7]%AT Score: 0.27/0.27
+# 	Longer leader analysis prediction:         NA 
+# 	----------------------------------------------------------------------------
+# 	Final direction:         F [0.64,0   Confidence: HIGH] 
+
+# Array family : NA
+ 
+# Summary: ID_START_STOP_DIR: NC_010085.1 Nitrosopumilus maritimus SCM1 complete sequence-1303233-1303340-F; REP_DR:TTCTGCAGCAGGTGCTTCTGTGTTTTCAGTTGCTTCTACTG; DR_LENGTH:41; NUM_DRs:2; MUTATIONS:0; INSERTIONS:0; SCORE:2.34; SPACERS:CGGGGGCTTCAGTTTCAGGAGTTTC
+ 
+ 
+//
+
+
